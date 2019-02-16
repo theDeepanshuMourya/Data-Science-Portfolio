@@ -1,5 +1,5 @@
-# Machine-Learning-Projetcs
-Repository containing portfolio of machine learning projects completed by me for academic, self learning, and hobby purposes. 
+# Data-Science-Portfolio
+Repository containing portfolio of Data Science projects completed by me for academic, self learning, and hobby purposes. 
 Presented in the form of iPython Notebooks.
 
 ## Contents
