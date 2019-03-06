@@ -11,6 +11,8 @@ Presented in the form of iPython Notebooks.
 	- [Click Through Rate (CTR) Prediction](/CTR%20Prediction): Developed a model to predict whether a particular internet user will click on the advertisement or not based on a dataset containing data of various customers.
 	
 	- [Deep Learning - Bank Churn Prediction](/Bank%20Churn%20Prediction): Designed and implemented an Artificial Neural Network that learns to predict customer churn using binary classification.
+	
+	- [Deep Learning - CNN Image Classifier(Cats vs Dogs)](/Cats-vs-Dogs): Designed and implemented a Convolutional Neural Network that learns to recognize images of cats and dogs and based on that learning predicts that a given image is of cat or dog.
 
 
 Tools: Scikit-learn, Pandas, Keras, Seaborn, Matplotlib, Featuretools
