@@ -22,3 +22,7 @@ Tools: Scikit-learn, Pandas, Keras, Seaborn, Matplotlib, Featuretools
 	- [Titanic Dataset - Exploratory Analysis](/Titanic%20Analysis): Exploratory Analysis of the passengers onboard RMS Titanic using Pandas and Seaborn visualisations.
 
 Tools: Pandas, Seaborn and Matplotlib
+
+- ### Micro Projects
+
+	- [ML with K-means Clustering](/ML%20Micro%20Projects/ML%20with%20K-means%20clustering): Using K-menas clustering to classify customer segments into different clusters based on their spending score.
