@@ -16,3 +16,9 @@ Presented in the form of iPython Notebooks.
 
 
 Tools: Scikit-learn, Pandas, Keras, Seaborn, Matplotlib, Featuretools
+
+- ### Machine Learning
+
+	- [Titanic Dataset - Exploratory Analysis](/Titanic%20Analysis): Exploratory Analysis of the passengers onboard RMS Titanic using Pandas and Seaborn visualisations.
+
+Tools: Pandas, Folium and Matplotlib
