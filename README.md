@@ -17,9 +17,17 @@ Presented in the form of iPython Notebooks.
 
 Tools: Scikit-learn, Pandas, Keras, Seaborn, Matplotlib, Featuretools
 
+- ### Natural Language Processing
+
+	- [Sentiment Analysis for Review Classification](/Sentiment%20Analysis%20for%20Review%20classification): 2-way polarity (positive & negative) classification system for reviews, using Natural Language Toolkit(NLTK).
+	
+
+Tools: NLTK, Scikit-learn, Pandas and Seaborn
+
 - ### Data Analysis and Visualisation
 
 	- [Titanic Dataset - Exploratory Analysis](/Titanic%20Analysis): Exploratory Analysis of the passengers onboard RMS Titanic using Pandas and Seaborn visualisations.
+	
 
 Tools: Pandas, Seaborn and Matplotlib
 
