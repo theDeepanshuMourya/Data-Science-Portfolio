@@ -19,7 +19,7 @@ Tools: Scikit-learn, Pandas, Keras, Seaborn, Matplotlib, Featuretools
 
 - ### Natural Language Processing
 
-	- [Sentiment Analysis for Review Classification](/Sentiment%20Analysis%20for%20Review%20classification): 2-way polarity (positive & negative) classification system for reviews, using Natural Language Toolkit(NLTK).
+	- [Sentiment Analysis for Review Classification](/Sentiment-Analysis-for-Review-classification): 2-way polarity (positive & negative) classification system for reviews, using Natural Language Toolkit(NLTK).
 	
 
 Tools: NLTK, Scikit-learn, Pandas and Seaborn
